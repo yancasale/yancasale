@@ -11,7 +11,7 @@
 
 
 
-### Entre em contato:
+### Entre em contato
 
 [![][1.1]][1]
 [![][2.1]][2]
