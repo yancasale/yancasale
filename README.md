@@ -1,5 +1,5 @@
-## Olá, meu nome é Yan 👋
-#### - Sou desenvolvedor Web Front-End e estudante de Sistemas para Internet
+# Olá, meu nome é Yan 👋
+### - Sou desenvolvedor Web Front-End e estudante de Sistemas para Internet
 
 ## Linguagens que estudo e faço uso no dia a dia
 ![icons8-html-5-48](https://user-images.githubusercontent.com/79453924/134423311-9d1627ae-ba1b-44aa-996d-238f8e57aa1d.png)
@@ -14,7 +14,7 @@
 
 
 
-#### Entre em contato:
+### Entre em contato:
 ![twitter](https://user-images.githubusercontent.com/79453924/134422627-93df7c7b-55d1-4b77-bb3b-850e8c4e8105.png)
 ![linkedin](https://user-images.githubusercontent.com/79453924/134422727-a747926d-4bb9-46b9-b61f-f08fc489c204.png)
 ![instagram](https://user-images.githubusercontent.com/79453924/134422862-5d99494a-6f7b-43f8-8e7c-7dc61a394d38.png)
