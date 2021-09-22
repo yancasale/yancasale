@@ -35,9 +35,6 @@
 
 
 
-<br />
-<br />
-
-[twitter]: https://twitter.com/yancasale13
-[linkedin]: https://twitter.com/yancasale13
-[instagram]: https://www.instagram.com/yancasale/
+[twitter]:https://twitter.com/home
+[linkedin]:https://twitter.com/yancasale13
+[instagram]:https://www.instagram.com/yancasale/
