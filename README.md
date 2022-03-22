@@ -21,10 +21,10 @@
 
 
 
-[1.1]: https://user-images.githubusercontent.com/79453924/134422627-93df7c7b-55d1-4b77-bb3b-850e8c4e8105.png
+
 [2.1]: https://user-images.githubusercontent.com/79453924/134422727-a747926d-4bb9-46b9-b61f-f08fc489c204.png
 [3.1]: https://user-images.githubusercontent.com/79453924/134422862-5d99494a-6f7b-43f8-8e7c-7dc61a394d38.png
 
-[1]: https://twitter.com/yancasale13
+
 [2]: https://www.linkedin.com/in/yancasale/
 [3]: https://www.instagram.com/yancasale/
