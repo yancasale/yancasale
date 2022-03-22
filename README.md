@@ -15,7 +15,7 @@
 
 
 [![][2.1]][2]
-[![][3.1]][3]
+
 
 ✉️ Email : yancasale@gmail.com
 
@@ -23,8 +23,8 @@
 
 
 [2.1]: https://user-images.githubusercontent.com/79453924/134422727-a747926d-4bb9-46b9-b61f-f08fc489c204.png
-[3.1]: https://user-images.githubusercontent.com/79453924/134422862-5d99494a-6f7b-43f8-8e7c-7dc61a394d38.png
+
 
 
 [2]: https://www.linkedin.com/in/yancasale/
-[3]: https://www.instagram.com/yancasale/
+
