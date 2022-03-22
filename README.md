@@ -1,10 +1,10 @@
 # Olá, meu nome é Yan 👋
 #### - Sou estudante de Web Front-End e cursando Sistemas para Internet
 
-## Linguagens que estudo e faço uso no dia a dia
+## Eu tenho um pouco de conhecimentos nas seguintes linguagens
 ![icons8-html-5-48](https://user-images.githubusercontent.com/79453924/134423311-9d1627ae-ba1b-44aa-996d-238f8e57aa1d.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/79453924/134423360-d3a65166-5569-4c07-98e2-26ab3f6f5d9a.png)
-![icons8-javascript-48](https://user-images.githubusercontent.com/79453924/134423502-aa8c3559-8f17-41c4-a798-9009a211b71f.png)
+
 
 
 
