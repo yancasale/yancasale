@@ -1,5 +1,5 @@
 # Olá, meu nome é Yan 👋
-#### - Sou UX e UI Designer Jr.
+
 
 ## Eu tenho um pouco de conhecimentos nas seguintes linguagens
 ![icons8-html-5-48](https://user-images.githubusercontent.com/79453924/134423311-9d1627ae-ba1b-44aa-996d-238f8e57aa1d.png)
